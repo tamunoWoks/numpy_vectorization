@@ -23,3 +23,7 @@ This notebook aims to:
     - Element-wise operations
     - Matrix operations
     - Broadcasting
+4. **Optimization Techniques:**
+    - Using numpy.dot() for fast computations
+    - Avoiding unnecessary loops
+    - Leveraging NumPy’s built-in functions
