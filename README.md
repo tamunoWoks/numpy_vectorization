@@ -31,3 +31,8 @@ This notebook aims to:
     - Image processing example (if applicable)
     - Financial computations
     - Data transformations in machine learning
+#### Requirements
+To run this notebook, ensure you have Python installed along with:
+```bash
+pip install numpy jupyterlab
+```
