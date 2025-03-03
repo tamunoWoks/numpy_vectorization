@@ -7,3 +7,8 @@ This Jupyter Notebook explores NumPy vectorization, an efficient technique for p
 - Libraries used:
   - `numpy`
   - `time`
+#### Objectives
+This notebook aims to:
+- Demonstrate the performance benefits of vectorized operations vs. traditional Python loops.
+- Perform basic and advanced mathematical operations using `NumPy`.
+- Explore real-world applications where vectorization improves efficiency.
