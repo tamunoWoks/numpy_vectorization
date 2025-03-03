@@ -36,3 +36,7 @@ To run this notebook, ensure you have Python installed along with:
 ```bash
 pip install numpy jupyterlab
 ```
+Then, launch Jupyter Notebook with:
+```bash
+jupyter notebook numpy_vectorization.ipynb
+```
