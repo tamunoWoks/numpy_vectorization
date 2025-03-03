@@ -13,3 +13,6 @@ This notebook aims to:
 - Perform basic and advanced mathematical operations using `NumPy`.
 - Explore real-world applications where vectorization improves efficiency.
 #### Contents
+1. **Introduction to NumPy**
+  - What is NumPy?
+  - Why use vectorization?
