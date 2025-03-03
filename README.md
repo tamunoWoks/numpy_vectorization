@@ -14,5 +14,5 @@ This notebook aims to:
 - Explore real-world applications where vectorization improves efficiency.
 #### Contents
 1. **Introduction to NumPy**
-  - What is NumPy?
-  - Why use vectorization?
+    - What is NumPy?
+    - Why use vectorization?
