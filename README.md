@@ -27,3 +27,7 @@ This notebook aims to:
     - Using numpy.dot() for fast computations
     - Avoiding unnecessary loops
     - Leveraging NumPy’s built-in functions
+6. **Case Studies:**
+    - Image processing example (if applicable)
+    - Financial computations
+    - Data transformations in machine learning
