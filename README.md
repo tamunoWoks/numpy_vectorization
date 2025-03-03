@@ -4,3 +4,6 @@ This Jupyter Notebook explores NumPy vectorization, an efficient technique for p
 #### File Information
 - Filename: numpy_vectorization.ipynb
 - Format: Jupyter Notebook (.ipynb)
+- Libraries used:
+  - `numpy`
+  - `time`
