@@ -40,3 +40,6 @@ Then, launch Jupyter Notebook with:
 ```bash
 jupyter notebook numpy_vectorization.ipynb
 ```
+#### Notes
+- If using Google Colab, upload the notebook and install dependencies as needed.
+- Modify parameters (array sizes, operations) to see how vectorization impacts performance.
