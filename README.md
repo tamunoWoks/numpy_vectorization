@@ -16,3 +16,6 @@ This notebook aims to:
 1. **Introduction to NumPy**
     - What is NumPy?
     - Why use vectorization?
+2. **Python Loops vs. NumPy Vectorization:**
+    - Benchmarking execution time
+    - Performance comparison with large datasets
