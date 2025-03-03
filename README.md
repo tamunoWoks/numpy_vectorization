@@ -19,3 +19,7 @@ This notebook aims to:
 2. **Python Loops vs. NumPy Vectorization:**
     - Benchmarking execution time
     - Performance comparison with large datasets
+3. **Vectorized Operations:**
+    - Element-wise operations
+    - Matrix operations
+    - Broadcasting
